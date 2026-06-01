@@ -1,0 +1,6 @@
+train: YOLO_full_body_Labeling/split_data/train/images
+val:   YOLO_full_body_Labeling/split_data/val/images
+test:  YOLO_full_body_Labeling/split_data/test/images
+
+nc: 3
+names: ['chair', 'desk', 'monitor']
